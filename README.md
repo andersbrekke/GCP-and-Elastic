@@ -3,14 +3,17 @@
 ### Summary: 
   This self-paced lab walks a user through creating a IOT simulator and using GCP and Elastic to explore this data in near real time. You will do this by creating an IOT simulator that sends data to Pub/Sub, then you will use Dataflow to move this data to Elastic.
 
-#### Lab steps include:
-  How to set up an Elastic on GCP environment
-  Creating Pub/Sub Topics and Subscriptions
-  Creating a Streaming Dataflow Job
-  Creating an IIOT simulator that sends data
-  Exploring the live data in Elastic
+  This Lab will focus on analyzing and exploring Industrial IOT data, which can be used to improve operational efficiency, reduce costs, improve customer experience and make better business decisions.
 
-##### If you are doing this lab in your own environment, it's recommended to create a seperate project to islotate the work. If you are doing this lab in a Qwiklabs environment, follow the below steps
+
+#### Respository Structure:
+/ Part 1: Elastic on GCP - Set up a trial account
+/ Part 2: Pub/Sub set up (Topics and Subscriptions)
+/ Part 3: Create a Streaming Dataflow job reading from Pub/Sub and pushing to Elastic
+/ Part 4: Sending Industrial IOT Data
+/ Part 5: Explore the data in Elastic
+
+##### If you are doing this lab in your own environment, it's recommended to create a seperate project to islotate the work. If you are doing this lab in a Qwiklabs environment, follow the below steps:
 
 Setup
   Labs are timed and you cannot pause them. The timer, which starts when you click ‘Start Lab’, shows how long Google Cloud resources will be made available to you.
