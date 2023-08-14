@@ -1,4 +1,4 @@
-# Step 1 - Elatic setup 
+#Step 1 - Elatic setup 
 
 **NOTE for troubleshooting see screenshots/files in this folder**
 
