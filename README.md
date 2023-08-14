@@ -3,7 +3,7 @@
 ### Summary: 
   This self-paced lab walks a user through creating a IOT simulator and using GCP and Elastic to explore this data in near real time. You will do this by creating an IOT simulator that sends data to Pub/Sub, then you will use Dataflow to move this data to Elastic.
 
-#### Lab steps includ:
+#### Lab steps include:
   How to set up an Elastic on GCP environment
   Creating Pub/Sub Topics and Subscriptions
   Creating a Streaming Dataflow Job
