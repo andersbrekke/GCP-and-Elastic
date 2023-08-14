@@ -7,11 +7,15 @@
 
 
 #### Respository Structure:
-/ Part 1: Elastic on GCP - Set up a trial account
-/ Part 2: Pub/Sub set up (Topics and Subscriptions)
-/ Part 3: Create a Streaming Dataflow job reading from Pub/Sub and pushing to Elastic
-/ Part 4: Sending Industrial IOT Data
-/ Part 5: Explore the data in Elastic
+  / Part 1: Elastic on GCP - Set up a trial account
+  
+  / Part 2: Pub/Sub set up (Topics and Subscriptions)
+  
+  / Part 3: Create a Streaming Dataflow job reading from Pub/Sub and pushing to Elastic
+  
+  / Part 4: Sending Industrial IOT Data
+  
+  / Part 5: Explore the data in Elastic
 
 ##### If you are doing this lab in your own environment, it's recommended to create a seperate project to islotate the work. If you are doing this lab in a Qwiklabs environment, follow the below steps:
 
