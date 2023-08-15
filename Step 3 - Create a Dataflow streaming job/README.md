@@ -15,3 +15,4 @@
 
             gcloud dataflow flex-template run qwiklabs-iiot-stream-`date +%s` --template-file-gcs-location gs://dataflow-templates-us-central1/latest/flex/PubSub_to_Elasticsearch --region us-central1 --num-workers 1 --parameters inputSubscription=projects/$GOOGLE_CLOUD_PROJECT/subscriptions/$TOPIC-sub,errorOutputTopic=projects/$GOOGLE_CLOUD_PROJECT/topics/$TOPIC-errors,namespace=iiot,maxNumWorkers=1,apiKey=$API_KEY,connectionUrl=$CLOUD_ID   
 
+   4. Go to Dataflow --> Jobs and make sure this is running. Note it can take up to 5 minutes for the job to execute
