@@ -18,7 +18,7 @@
 
   8. Click “continue” to go to your elastic deployment
 
-  9. Click the hamburger menu (1) and then click “Stack Management”. 
+  9. Click the hamburger menu and then click “Stack Management”. 
 
   10. On the right side of the page, select “API keys”  
 
