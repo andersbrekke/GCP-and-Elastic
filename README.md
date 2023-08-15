@@ -1,7 +1,7 @@
 # GCP-and-Elastic
 ## Monitoring IOT using Google Pub/Sub and ElasticSearch
 ### Summary: 
-  This self-paced lab walks a user through creating a IOT simulator and using GCP and Elastic to explore this data in near real time. You will do this by creating an IOT simulator that sends data to Pub/Sub, then you will use Dataflow to move this data to Elastic.
+  This self-paced lab walks a user through creating an IOT simulator and using GCP and Elastic to explore this data in near real time. You will do this by creating an IOT simulator that sends data to Pub/Sub, then you will use Dataflow to move this data to Elastic.
 
   This Lab will focus on analyzing and exploring Industrial IOT data, which can be used to improve operational efficiency, reduce costs, improve customer experience and make better business decisions.
 
@@ -17,16 +17,14 @@
   
   / Part 5: Explore the data in Elastic
 
-##### If you are doing this lab in your own environment, it's recommended to create a seperate project to islotate the work. If you are doing this lab in a Qwiklabs environment, follow the below steps:
+##### If you are doing this lab in your own environment, it's recommended to create a seperate project to isolate the work. If you are doing this lab in a Qwiklabs environment, follow the below steps:
 
-Setup
+###### Lab Setup
   Labs are timed and you cannot pause them. The timer, which starts when you click ‘Start Lab’, shows how long Google Cloud resources will be made available to you.
 
   This hands-on lab lets you do the lab activities yourself in a real cloud environment, not in a simulation or demo environment. It does so by giving you new, temporary credentials that you use to sign in and access Google Cloud for the duration of the lab.
 
   **Note**: Use an Incognito or private browser window to run this lab. This prevents any conflicts between your personal account and the Student account, which may cause extra charges incurred to your personal account.
-
-**Note**: If you already have your own personal Google Cloud account or project, do not use it for this lab to avoid extra charges to your account.
 
 After starting your lab, copy the username, and then right click Open Google Console, then select “open link in incognito window”. The lab spins up resources, and then opens another tab that shows the Sign in page.
 
