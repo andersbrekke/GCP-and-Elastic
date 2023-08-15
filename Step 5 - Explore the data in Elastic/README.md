@@ -32,4 +32,22 @@
 
    14. Add a title and resize the visualization
 
-   15. Click the gear/settings symbol in the top right corner
+   15. Click the gear/settings symbol in the top right corner to clone the panel and edit for second freeze
+
+   16. Edit tht title to make it "Freezer 2", then edit the filter
+
+   17. Change the filter from "freeze-1" to "freeze-2" and click "Update"
+
+   18. Click "Save and return"
+
+   19. Adjust the dashboard to the view you would like
+
+   20. Save and name the dashboard
+
+# Congrats!!! You've finished the lab
+## In this lab, you have: Set up an Elastic on GCP environment
+Created Pub/Sub Topics and Subscriptions
+Created a Streaming Dataflow Job
+Created a IIOT simulator that sends data
+Explored the live data in Elastic
+
