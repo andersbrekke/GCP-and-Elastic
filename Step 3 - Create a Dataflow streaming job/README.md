@@ -1,6 +1,4 @@
 # Step 3 - Create a Streaming Dataflow job reading from Pub/Sub and pushing to Elastic
-
-## **NOTE: for troubleshooting see screenshots/files in this folder**
    
    1. Enable the Dataflow API
    
