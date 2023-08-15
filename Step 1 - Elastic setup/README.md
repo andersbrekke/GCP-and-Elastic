@@ -1,9 +1,10 @@
-# Step 1 - Elatic setup 
+# Step 1 - Elastic - set up a free trial account 
 
-**NOTE for troubleshooting see screenshots/files in this folder**
+## **NOTE: for troubleshooting see screenshots/files in this folder**
 
   1. Sign up for a free Elastic trial here: https://www.elastic.co/cloud/elasticsearch-service/signup?utm_source=referral&utm_medium=qwiklabs&utm_campaign=cloud-trial-subscription-pm&utm_id=701610000005lJVAAY
-    1a. Click "Start free trial". See 'Elasticsetup1.png'
+  
+    1a. Click "Start free trial".
 
   2. Sign up using your personal email and a unique password.  Do NOT click the “sign up with Google” button:
   **Note**: You must use your personal email, not your student account, don't attempt to sign up with google, unless you sign out of your lab account first. If you attempt to sign up with your student id, your trial will be rejected or canceled.
