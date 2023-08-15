@@ -4,7 +4,7 @@
 
   1. Open the Cloud Shell by clicking the box in the top right corner.
 
-  2. Paste the below code into the Cloud Shell to create a new bucket and copy data from an existing bucket:
+  2. Paste the below code into the Cloud Shell to create the needed Topics and Subscription:
   
     export TOPIC=qwiklab-test
     gcloud pubsub topics create $TOPIC
